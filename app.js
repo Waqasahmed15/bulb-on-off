@@ -16,12 +16,12 @@
 // }
 function bulbon() {
   var bulbOn = (document.getElementById("myImage").src =
-    "../events/light-bulb-on.jpg");
+    "../bulb-on-off/pic_bulbon.gif");
   bulbOn.style.widht = "200px";
 }
 
 function bulboff() {
   var bulbOff = (document.getElementById("myImage").src =
-    "../events/light-bulb-off.jpg");
+    "../bulb-on-off/pic_bulboff.gif");
   bulbOff.style.widht = "200px";
 }
