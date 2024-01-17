@@ -1,5 +1,24 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0%;
+  padding: 0%;
   box-sizing: border-box;
+}
+
+.container {
+  margin: 12% 22%;
+}
+h1 {
+  margin-left: 25px;
+  color: #631ce6;
+  margin-bottom: 10px;
+}
+.btn-style {
+  height: 70px;
+  width: 150px;
+  background-color: #25cac7c2;
+  border-radius: 25px;
+  border: #1fb11dc2;
+}
+.btn-style:hover {
+  border: 2px solid black;
 }
